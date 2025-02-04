@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html,Css,JavaScript,TypeScript,Material UI,React,Redux,ASP .NET COR,WEB API ,ENTITY FRAMEWORK, SQL**
 
-- 📫 How to reach me **shamnasherinc3@gmail.com**
+- 📫 How to reach me **sherinshamna78@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
